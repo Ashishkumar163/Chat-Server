@@ -1,1 +1,1 @@
-# GoChat
+# Chat Server
